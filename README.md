@@ -4,7 +4,7 @@ A Python tool that automatically sorts your Downloads folder into categorized su
 
 ## What it does
 
-Running the organizer scans your Downloads folder and moves files into subfolders based on their type — images, videos, documents, installers, archives, and more. Every move is logged to a JSON file, so you can reverse the entire operation with the undo script if needed.
+Running the organizer scans your Downloads folder and moves files into subfolders based on their type - images, videos, documents, installers, archives, and more. Every move is logged to a JSON file, so you can reverse the entire operation with the undo script if needed.
 
 ## Scripts
 
@@ -24,7 +24,7 @@ Images, Videos, Documents, Audio, Code, Installers, Archives, Disk Images, 3D Fi
 
 ## Requirements
 
-Python 3. No external libraries needed — only `os`, `shutil`, and `json` from the standard library.
+Python 3. No external libraries needed - only `os`, `shutil`, and `json` from the standard library.
 
 ## Notes
 
