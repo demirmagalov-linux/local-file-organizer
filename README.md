@@ -1,6 +1,6 @@
 # Local File Organizer
 
-A Python tool that automatically sorts your Downloads folder into categorized subfolders, with full undo support.
+A Python tool that automatically sorts any directory folder into categorized subfolders, with full undo support.
 
 ## What it does
 
