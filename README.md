@@ -8,9 +8,9 @@ Running the organizer scans your Downloads folder and moves files into subfolder
 
 ## Scripts
 
-**local_file_organizer.py** — sorts files into categorized folders and saves a log of every move.
+**local_file_organizer.py** - sorts files into categorized folders and saves a log of every move.
 
-**undo.py** — reads the log and moves every file back to its original location, then deletes the log.
+**undo.py** - reads the log and moves every file back to its original location, then deletes the log.
 
 ## Supported categories
 
